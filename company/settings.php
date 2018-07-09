@@ -1,18 +1,17 @@
 <?php
 // Settings for Story for
-$company       = "Detekt";
+$company       = "Company Name";
 $greeting      = "Hello Anton";
-$published     = "June 2018";
+$published     = "Month YYYY";
 
 // Instructions
-$first_name    = "Gustav";
-$last_name     = "Moorhouse";
+$first_name    = "Your Name";
+$last_name     = "Your Name";
 $name          = $first_name.' '.$last_name;
 $for           = "Portfolio for ".$company;
 $description   = $name." — ".$for;
 $showNumbers   = True; //Show Numbers before Project Titles
 $hideSide      = True; //Hide Side Nav
-$analytics     = "UA-119678562-1"; //Your Google Analytics code for this company
 
 // Project Folder Name
 // $project_1 doesn't have to be the first folder in the /projects directory
